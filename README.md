@@ -130,9 +130,9 @@
 
 | Project | Technologies | Description |
 |---|---|---|
-| **[AI Resume Analyzer](https://github.com/monicas8891)** | `Python` `FastAPI` `React` `Gemini AI` | AI-based resume analysis and ATS scoring |
-| **[Containerized Chronicles](https://github.com/monicas8891)** | `Python` `Django` `SQL` | Full-stack blogging platform with authentication |
-| **[CarNav Walking Stick](https://github.com/monicas8891)** | `Arduino` `ESP32` `C/C++` `GPS` `GSM` | Smart walking stick with obstacle detection and SOS alerts |
+| **[AI Resume Analyzer](https://github.com/monicas8891)** | `Python` `FastAPI` `React` `Gemini AI` | An AI-powered application that analyzes resumes, provides ATS scores, identifies missing skills, and generates useful feedback. |
+| **[Containerized Chronicles](https://github.com/monicas8891)** | `Python` `Django` `SQL` | A full-stack blogging platform with user authentication, personalized content, content categorization, and role-based access. |
+| **[CarNav Walking Stick](https://github.com/monicas8891)** | `Arduino` `ESP32` `C/C++` `GPS` `GSM` | An IoT-based smart walking stick designed for visually impaired users with obstacle detection, GPS tracking, and emergency SOS alerts. |
 
 </div>
 
