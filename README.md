@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=monicas8891&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
+<img src="https://streak-stats.demolab.com/?user=monicas8891&hide_border=true&background=0D1117&ring=FF9A9E&fire=FBC2EB&currStreakLabel=FF9A9E&sideLabels=FBC2EB&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
      width="70%"
      alt="Monica's GitHub Streak"/>
 
@@ -100,9 +100,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=monicas8891&hide_border=true&background=0D1117&ring=FF9A9E&fire=FBC2EB&currStreakLabel=FF9A9E&sideLabels=FBC2EB&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
-     width="70%"
-     alt="Monica's GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monicas8891&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+     width="95%"
+     alt="Monica's GitHub Activity Graph"/>
 
 </div>
 
