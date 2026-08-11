@@ -128,11 +128,11 @@
 
 <div align="center">
 
-| Project | Stack | Highlights |
+| Project | Technologies | Description |
 |---|---|---|
-| **[AI Resume Analyzer](https://github.com/monicas8891)** | `React.js` `FastAPI` `Python` `Gemini AI` `Axios` `jsPDF` | AI-powered app that scores resumes against job descriptions (Resume Score & ATS Score), flags missing skills, and generates a downloadable report with an interactive dark/light dashboard |
-| **[Containerized Chronicles](https://github.com/monicas8891)** — Authenticated Blog App | `Python` `Django (MVT)` `CMS` | Scalable, authenticated blogging platform with personalized content recommendations, automated content categorization, Text-to-Speech accessibility, and role-based access control |
-| **[CarNav Walking Stick](https://github.com/monicas8891)** | `ESP32/Arduino` `C/C++` `GPS` `GSM` | IoT-based smart walking stick for the visually impaired — real-time obstacle detection, GPS/GSM-based SOS alerts to caregivers, and an RTC-based medicine reminder system |
+| **[AI Resume Analyzer](https://github.com/monicas8891)** | `Python` `FastAPI` `React` `Gemini AI` | AI-based resume analysis and ATS scoring |
+| **[Containerized Chronicles](https://github.com/monicas8891)** | `Python` `Django` `SQL` | Full-stack blogging platform with authentication |
+| **[CarNav Walking Stick](https://github.com/monicas8891)** | `Arduino` `ESP32` `C/C++` `GPS` `GSM` | Smart walking stick with obstacle detection and SOS alerts |
 
 </div>
 
