@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=monicas8891&hide_border=true&background=0D1117&ring=FF9A9E&fire=FBC2EB&currStreakLabel=FF9A9E&sideLabels=FBC2EB&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
+<img src="https://streak-stats.demolab.com/?user=monicas8891&theme=radical&hide_border=true&background=0D1117&ring=FF9A9E&fire=FBC2EB&currStreakLabel=FF9A9E&sideLabels=FBC2EB&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"
      width="70%"
      alt="Monica's GitHub Streak"/>
 
